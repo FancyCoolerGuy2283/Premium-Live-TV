@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png", MGM
+http://103.205.133.70/epix/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/MGM%2B_Hits_2023.svg", MGM Hits
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3724.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/MGM%2B_Marquee_2023.svg", MGM Marquee
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2583.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/MGM%2B_Drive-In_2023.svg", MGM Drive In
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/4431.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxnow/Config/video/9093579/138c80c6dc73af87744353ee32f2fd18/284x160-Q75_138c80c6dc73af87744353ee32f2fd18.png", FX East
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxnow/Config/video/9394144/0a3532ac658eb7c9f03bab4ba649c7d0/284x160-Q75_0a3532ac658eb7c9f03bab4ba649c7d0.png", FX West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3832.ts
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxnow/Config/video/9416865/8be9fa5d44c8ad685559379159e28ae9/284x160-Q75_8be9fa5d44c8ad685559379159e28ae9.png", FXM
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2497.ts
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxnow/Config/video/9416864/2308664c7ea79eadc3a2e19474c6fb57/284x160-Q75_2308664c7ea79eadc3a2e19474c6fb57.png", FXX East
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxnow/Config/video/9416861/99bc437f650109d42ffd4cc97aecabbd/284x160-Q75_99bc437f650109d42ffd4cc97aecabbd.png", FXX West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3833.ts
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/abcf/Live/video/369456/a416ddfb9dbdd8d720ec3ac679b2c1d1/284x160-Q75_a416ddfb9dbdd8d720ec3ac679b2c1d1.png", Freeform East
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/abcf/Live/video/26962375/37df3e4d046b1530a2af920d94e36d45/284x160-Q75_37df3e4d046b1530a2af920d94e36d45.png", Freeform West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3849.ts
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png", HBO East
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png", HBO West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2490.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png", HBO Comedy East
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png", HBO Comedy West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631876.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png", HBO Signature East
+https://cdn.telecloud.tv/CH3265/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png", HBO Signature West
+http://138.59.227.20:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Hbo_latino.png", HBO Latino East
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Hbo_latino.png", HBO Latino West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631875.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png", HBO Zone East
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png", HBO Zone West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631877.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", Cinemax East
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", Cinemax West
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png", Cinemax Hits
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/81382.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png", Cinemax Action
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/81383.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/960px-TBS_Network-logo.svg.png", TBS East
+https://cdn.telecloud.tv/CH3273/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/960px-TBS_Network-logo.svg.png", TBS West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3842.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png", TNT East
+https://cdn.telecloud.tv/CH4641/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png", TNT West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2384.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png", TruTV East
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png", TruTV West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3846.ts
