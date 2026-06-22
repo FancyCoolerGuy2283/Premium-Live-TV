@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png", MGM
 http://103.205.133.70/epix/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/MGM%2B_Hits_2023.svg", MGM Hits
-http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3724.m3u8
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3724.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/MGM%2B_Marquee_2023.svg", MGM Marquee
-http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2583.m3u8
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2583.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/MGM%2B_Drive-In_2023.svg", MGM Drive In
-http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/4431.m3u8
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/4431.ts
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxnow/Config/video/9093579/138c80c6dc73af87744353ee32f2fd18/284x160-Q75_138c80c6dc73af87744353ee32f2fd18.png", FX East
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxnow/Config/video/9394144/0a3532ac658eb7c9f03bab4ba649c7d0/284x160-Q75_0a3532ac658eb7c9f03bab4ba649c7d0.png", FX West
