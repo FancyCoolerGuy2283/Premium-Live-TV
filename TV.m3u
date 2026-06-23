@@ -71,3 +71,9 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2379.ts
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png", SYFY West
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3841.ts
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeotv/Live/video/9417398/e2b7ec19b892fb606aa2390b4118938a/213x120-Q80_e2b7ec19b892fb606aa2390b4118938a.png", National Geographic East
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeotv/Live/video/9417400/571782fd928e803a40e9b01870b59241/213x120-Q80_571782fd928e803a40e9b01870b59241.png", National Geographic West
+http://194.76.0.79/NATIONAL-GEOGRAPHIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeotv/Live/video/9417401/b717bfe7751a1ec72db567979eb8f9c0/213x120-Q80_b717bfe7751a1ec72db567979eb8f9c0.png", National Geographic Wild
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
