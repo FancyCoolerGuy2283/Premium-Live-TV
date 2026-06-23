@@ -67,3 +67,7 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3846.ts
 http://103.205.133.70/usa/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png", USA Network West
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2379.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png", SYFY East
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png", SYFY West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3841.ts
