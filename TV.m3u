@@ -77,3 +77,19 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 http://194.76.0.79/NATIONAL-GEOGRAPHIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeotv/Live/video/9417401/b717bfe7751a1ec72db567979eb8f9c0/213x120-Q80_b717bfe7751a1ec72db567979eb8f9c0.png", National Geographic Wild
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N7oSm4d.png", Starz East
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N7oSm4d.png", Starz West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3963.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghzzKoT.png", Starz Cinema East
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghzzKoT.png", Starz Cinema West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631879.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png", Starz Comedy East
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png", Starz Comedy West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631883.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eE9FzEP.png", Starz Kids & Family East
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eE9FzEP.png", Starz Kids & Family West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/649403.ts
